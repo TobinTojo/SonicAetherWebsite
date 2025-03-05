@@ -1,19 +1,62 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Sonic Aether Website - A React.js Project
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Welcome to the **Sonic Aether Website**, a React.js-based platform created to showcase and promote the fan-made game **Sonic Aether**. This website serves as the official hub for all things related to the game, including information, downloads, community engagement, and development updates.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+👉 **[Visit the Website](https://sonicaether.netlify.app/)**
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+---
 
-Happy Coding!
+## About the Website
+
+The Sonic Aether website is a fully responsive and interactive platform built using **React.js**. It provides fans with an immersive experience, offering detailed information about the game, access to downloads, community links, and behind-the-scenes devlogs.
+
+### Key Features:
+- **Interactive Sections**: The website is divided into multiple sections, including **About**, **Devlogs**, **Download**, and **Community**.
+- **Slideshow**: A dynamic slideshow on the **About** page showcases screenshots from the game.
+- **Embedded Devlogs**: Watch the latest development updates directly on the website via embedded YouTube videos.
+- **Download Links**: Easily access the game through links to **SAGE (Sonic Amateur Games Expo)** and **Google Drive**.
+- **Community Engagement**: Join the Discord server to connect with other fans and contribute to the project.
+
+---
+
+## Technologies Used
+
+- **React.js**: The website is built using React, ensuring a dynamic and responsive user experience.
+- **CSS**: Custom CSS is used for styling, including animations and transitions.
+- **Netlify**: The website is hosted on Netlify for fast and reliable performance.
+
+---
+
+## How to Run the Project Locally
+
+To run the Sonic Aether website locally, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/sonic-aether-website.git
+   cd sonic-aether-website
+   ```
+
+2. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Run the Project**:
+   ```bash
+   npm start
+   ```
+
+4. **Open in Browser**:
+   Open your browser and navigate to `http://localhost:3000` to view the website.
+
+---
+
+## Credits
+
+- **Developer**: Tobin
+- **Design and Development**: The website was designed and developed to provide an engaging experience for Sonic Aether fans.
+
+---
+
+**Explore the world of Sonic Aether and join the adventure today!** 🚀
